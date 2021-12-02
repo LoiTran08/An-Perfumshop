@@ -1,0 +1,1 @@
+<div class="col-md-6" style="color: red;"><input style="border-radius: 5px; color: black;" type="text" name="Username" placeholder="ví dụ: abc" size="50" value="<?php echo $_SESSION['Username'];?>"/></div>
